@@ -1,0 +1,120 @@
+{
+  "query_id": "q001",
+  "query_text": "Where is Café Athena in Pacific Beach, San Diego?",
+  "intents": ["location"]
+}
+{
+  "query_id": "q002",
+  "query_text": "Does Café Athena have a happy hour in Pacific Beach?",
+  "intents": ["happy_hour", "value"]
+}
+{
+  "query_id": "q003",
+  "query_text": "Is Café Athena good value for a quick dinner in San Diego?",
+  "intents": ["value"]
+}
+{
+  "query_id": "q004",
+  "query_text": "What kind of food does Café Athena serve?",
+  "intents": ["cuisine"]
+}
+{
+  "query_id": "q005",
+  "query_text": "Is Café Athena a good Mediterranean restaurant in Pacific Beach?",
+  "intents": ["cuisine", "location"]
+}
+{
+  "query_id": "q006",
+  "query_text": "Does Café Athena have vegan or vegetarian options?",
+  "intents": ["dietary"]
+}
+{
+  "query_id": "q007",
+  "query_text": "Can I take a date to Café Athena in Pacific Beach?",
+  "intents": ["date_night"]
+}
+{
+  "query_id": "q008",
+  "query_text": "Can Café Athena host a group dinner or private event?",
+  "intents": ["group_events", "occasion"]
+}
+{
+  "query_id": "q009",
+  "query_text": "Is Café Athena affordable compared with other Pacific Beach restaurants?",
+  "intents": ["value"]
+}
+{
+  "query_id": "q010",
+  "query_text": "What are the hours at Café Athena?",
+  "intents": ["location"]
+}
+{
+  "query_id": "q011",
+  "query_text": "Where is Café Athena located on Garnet Ave?",
+  "intents": ["location"]
+}
+{
+  "query_id": "q012",
+  "query_text": "Does Café Athena serve Greek food in San Diego?",
+  "intents": ["cuisine"]
+}
+{
+  "query_id": "q013",
+  "query_text": "Is Café Athena good for a casual lunch in Pacific Beach?",
+  "intents": ["value"]
+}
+{
+  "query_id": "q014",
+  "query_text": "Does Café Athena have gluten-free options?",
+  "intents": ["dietary"]
+}
+{
+  "query_id": "q015",
+  "query_text": "Is there a happy hour at Café Athena and is it a good deal?",
+  "intents": ["happy_hour", "value"]
+}
+{
+  "query_id": "q016",
+  "query_text": "Does Café Athena have good cocktails for a date night?",
+  "intents": ["date_night", "value"]
+}
+{
+  "query_id": "q017",
+  "query_text": "Can I host a rehearsal dinner at Café Athena?",
+  "intents": ["group_events", "occasion"]
+}
+{
+  "query_id": "q018",
+  "query_text": "How is Café Athena framed for value in Pacific Beach?",
+  "intents": ["value"]
+}
+{
+  "query_id": "q019",
+  "query_text": "Is Café Athena near the beach and good for a date night?",
+  "intents": ["location", "date_night"]
+}
+{
+  "query_id": "q020",
+  "query_text": "Does Café Athena do catering or large group dining?",
+  "intents": ["group_events"]
+}
+{
+  "query_id": "q021",
+  "query_text": "What is the neighborhood vibe for Café Athena in Pacific Beach?",
+  "intents": ["location"]
+}
+{
+  "query_id": "q022",
+  "query_text": "Is Café Athena a favorite local Greek restaurant in San Diego?",
+  "intents": ["cuisine", "location"]
+}
+{
+  "query_id": "q023",
+  "query_text": "Which restaurants are good in Pacific Beach if I want Greek food and a casual vibe?",
+  "intents": ["cuisine", "value"]
+}
+{
+  "query_id": "q024",
+  "query_text": "Is Café Athena a nice place for a birthday party or group dinner?",
+  "intents": ["group_events", "occasion"]
+}
